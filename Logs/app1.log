@@ -1,0 +1,65 @@
+[INFO ] 2023-07-01 10:01:21.723 [main] LoggerLoad - Broswer is opened
+[INFO ] 2023-07-01 10:01:21.727 [main] LoggerLoad - Landed on Home Page.
+[INFO ] 2023-07-01 10:01:21.727 [main] LoggerLoad - Goto Main Canvas Started
+[INFO ] 2023-07-01 10:01:22.389 [main] LoggerLoad - Closed the Pop Up
+[INFO ] 2023-07-01 10:01:22.627 [main] LoggerLoad - Clicked on Collaborate Option
+[INFO ] 2023-07-01 10:01:32.240 [main] LoggerLoad - Clicked Close in OverlayMUI Popup
+[INFO ] 2023-07-01 10:01:34.487 [main] LoggerLoad - Clicked on Skip4good Button
+[INFO ] 2023-07-01 10:01:34.488 [main] LoggerLoad - Main Canvas Landed Successful
+[INFO ] 2023-07-01 10:01:34.524 [main] LoggerLoad - Drawing on the Canvas using a Free Hand Pen Tool
+[INFO ] 2023-07-01 10:01:54.785 [main] LoggerLoad - Click and Type tools is selected from WRITE Tab
+[INFO ] 2023-07-01 10:02:07.109 [main] LoggerLoad - Applying Grid on the Canvas 
+[INFO ] 2023-07-01 10:02:16.807 [main] LoggerLoad - Applying Grid on the Canvas 
+[INFO ] 2023-07-01 10:02:30.656 [main] LoggerLoad - Uploading a picture on the Canvas 
+[INFO ] 2023-07-01 10:02:53.501 [main] LoggerLoad - File Upload Success
+[INFO ] 2023-07-01 10:02:57.674 [main] LoggerLoad - Placing a shape triangle on the Canvas 
+[INFO ] 2023-07-01 10:03:05.481 [main] LoggerLoad - Shape Triangle Success
+[INFO ] 2023-07-01 10:03:05.543 [main] LoggerLoad - Placing a shape Circle on the Canvas 
+[INFO ] 2023-07-01 10:03:12.954 [main] LoggerLoad - Shape Circle Success
+[INFO ] 2023-07-01 10:03:13.014 [main] LoggerLoad - Placing a shape Polygon on the Canvas 
+[INFO ] 2023-07-01 10:03:20.718 [main] LoggerLoad - Shape Polygon Success
+[INFO ] 2023-07-01 10:03:20.767 [main] LoggerLoad - Erase the Object drawn started
+[INFO ] 2023-07-01 10:03:40.791 [main] LoggerLoad - Broswer is opened
+[INFO ] 2023-07-01 10:03:40.791 [main] LoggerLoad - Landed on Home Page.
+[INFO ] 2023-07-01 10:03:40.791 [main] LoggerLoad - Goto Main Canvas Started
+[INFO ] 2023-07-01 10:03:40.995 [main] LoggerLoad - Closed the Pop Up
+[INFO ] 2023-07-01 10:03:41.268 [main] LoggerLoad - Clicked on Collaborate Option
+[INFO ] 2023-07-01 10:03:51.353 [main] LoggerLoad - Clicked Close in OverlayMUI Popup
+[INFO ] 2023-07-01 10:03:52.315 [main] LoggerLoad - Clicked on Skip4good Button
+[INFO ] 2023-07-01 10:03:52.315 [main] LoggerLoad - Main Canvas Landed Successful
+[INFO ] 2023-07-01 10:03:52.318 [main] LoggerLoad - Instuctor Lesson Started
+[INFO ] 2023-07-01 10:04:04.363 [main] LoggerLoad - Shape Polygon Success
+[INFO ] 2023-07-01 10:04:14.395 [main] LoggerLoad - Shape Triangle Success
+[INFO ] 2023-07-01 10:04:14.395 [main] LoggerLoad - Instuctor Lesson Success
+[INFO ] 2023-07-01 10:04:14.397 [main] LoggerLoad - StudentDemo Started
+[INFO ] 2023-07-01 10:04:47.286 [main] LoggerLoad - StudentDemo Success
+[INFO ] 2023-07-01 10:04:47.290 [main] LoggerLoad - MyBoard Download Started
+[INFO ] 2023-07-01 10:05:03.854 [main] LoggerLoad - MyBoardDownload Success
+[INFO ] 2023-07-01 10:05:03.860 [main] LoggerLoad - Upload a file Started
+[INFO ] 2023-07-01 10:05:28.309 [main] LoggerLoad - File Upload Success
+[INFO ] 2023-07-01 10:05:32.499 [main] LoggerLoad - Undo Redo Zoom Started
+[INFO ] 2023-07-01 10:06:15.186 [main] LoggerLoad - UNDO REDO ZOOM Success
+[INFO ] 2023-07-01 10:06:15.195 [main] LoggerLoad - LanguageChange Started
+[INFO ] 2023-07-01 10:06:19.459 [main] LoggerLoad - Colour_PenThickness Started
+[INFO ] 2023-07-01 10:06:32.834 [main] LoggerLoad - Broswer is opened
+[INFO ] 2023-07-01 10:06:32.834 [main] LoggerLoad - Landed on Home Page.
+[INFO ] 2023-07-01 10:06:32.834 [main] LoggerLoad - Goto Main Canvas Started
+[INFO ] 2023-07-01 10:06:33.074 [main] LoggerLoad - Closed the Pop Up
+[INFO ] 2023-07-01 10:06:33.348 [main] LoggerLoad - Clicked on Collaborate Option
+[INFO ] 2023-07-01 10:06:44.150 [main] LoggerLoad - Clicked Close in OverlayMUI Popup
+[INFO ] 2023-07-01 10:06:45.062 [main] LoggerLoad - Clicked on Skip4good Button
+[INFO ] 2023-07-01 10:06:45.062 [main] LoggerLoad - Main Canvas Landed Successful
+[INFO ] 2023-07-01 10:06:45.069 [main] LoggerLoad - Gizmos Started
+[INFO ] 2023-07-01 10:07:08.297 [main] LoggerLoad - GizmosTool Success
+[INFO ] 2023-07-01 10:07:08.301 [main] LoggerLoad - YouTube widgets Started
+[INFO ] 2023-07-01 10:07:44.778 [main] LoggerLoad - YouTube widgets success
+[INFO ] 2023-07-01 10:07:49.119 [main] LoggerLoad - Broswer is opened
+[INFO ] 2023-07-01 10:07:49.120 [main] LoggerLoad - Landed on Home Page.
+[INFO ] 2023-07-01 10:07:49.120 [main] LoggerLoad - Goto Main Canvas Started
+[INFO ] 2023-07-01 10:07:50.028 [main] LoggerLoad - Closed the Pop Up
+[INFO ] 2023-07-01 10:07:50.313 [main] LoggerLoad - Clicked on Collaborate Option
+[INFO ] 2023-07-01 10:08:01.060 [main] LoggerLoad - Clicked Close in OverlayMUI Popup
+[INFO ] 2023-07-01 10:08:02.458 [main] LoggerLoad - Clicked on Skip4good Button
+[INFO ] 2023-07-01 10:08:02.458 [main] LoggerLoad - Main Canvas Landed Successful
+[INFO ] 2023-07-01 10:08:08.375 [main] LoggerLoad - Logged in with Invalid Credentials
+[INFO ] 2023-07-01 10:08:20.105 [main] LoggerLoad - Logged in with valid Credentials
